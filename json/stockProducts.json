@@ -1,0 +1,194 @@
+[
+    {
+       "id":1,
+       "nombre":"Crash Bandicoot",
+       "cantidad":1,
+       "desc":"Juego plataformero, niveles dificiles",
+       "precio":1200,
+       "img":"/img/Crash.jpg"
+    },
+    {
+       "id":2,
+       "nombre":"Mortal Kombat X",
+       "cantidad":1,
+       "desc":"Luchas con los mejores graficos",
+       "precio":1500,
+       "img":"/img/mortal.jpg"
+    },
+    {
+       "id":3,
+       "nombre":"Pac Man",
+       "cantidad":1,
+       "desc":"Juego plataformero, niveles basicos",
+       "precio":1570,
+       "img":"/img/pacman.jpg"
+    },
+    {
+       "id":4,
+       "nombre":"Dragon Ball Xenoverse",
+       "cantidad":1,
+       "desc":"Vive la experiencia dragon ball",
+       "precio":1000,
+       "img":"img/dragonball.jpg"
+    },
+    {
+       "id":5,
+       "nombre":"Naruto Ninja Storm 4",
+       "cantidad":1,
+       "desc":"La historia de Naruto",
+       "precio":1200,
+       "img":"img/naruto.jpg"
+    },
+    {
+       "id":6,
+       "nombre":"Shingeki Final Attack",
+       "cantidad":1,
+       "desc":"Eren Jeager vuelve en formato gamer...",
+       "precio":1200,
+       "img":"img/shingeki.jpg"
+    },
+    {
+       "id":7,
+       "nombre":"League of Legends",
+       "cantidad":1,
+       "desc":"No compres esto por tu bien",
+       "precio":1400,
+       "img":"img/league.jpg"
+    },
+    {
+       "id":8,
+       "nombre":"Call Of Duty Warzone",
+       "cantidad":1,
+       "desc":"Dispara como nunca",
+       "precio":1200,
+       "img":"img/callduty.jpg"
+    },
+    {
+       "id":9,
+       "nombre":"Fifa 2019",
+       "cantidad":1,
+       "desc":"Juego de futbol",
+       "precio":1400,
+       "img":"img/fifa.jpg"
+    },
+    {
+       "id":10,
+       "nombre":"Fornite",
+       "cantidad":1,
+       "desc":"Battle Royale",
+       "precio":1200,
+       "img":"img/fornite.jpg"
+    },
+    {
+       "id":11,
+       "nombre":"Grand Theft Auto V",
+       "cantidad":1,
+       "desc":"Acción y aventuras",
+       "precio":1900,
+       "img":"img/GTAV.jpg"
+    },
+    {
+       "id":12,
+       "nombre":"Minecraft",
+       "cantidad":1,
+       "desc":"Mundo abierto MMORPG con muchos cubos",
+       "precio":1200,
+       "img":"img/Minecraft.jpg"
+    },
+    {
+       "id":13,
+       "nombre":"RUN Poki",
+       "cantidad":1,
+       "desc":"Juego plataformero, niveles basicos",
+       "precio":1570,
+       "img":"img/poki.jpg"
+    },
+    {
+       "id":14,
+       "nombre":"Counter Strike 1.6",
+       "cantidad":1,
+       "desc":"Videojuego de disparos en primera personal",
+       "precio":800,
+       "img":"img/cs1.6.jpg"
+    },
+    {
+       "id":15,
+       "nombre":"Counter Strike Source",
+       "cantidad":1,
+       "desc":"Videojuego de disparos en primera persona",
+       "precio":1100,
+       "img":"img/cs source.jpg"
+    },
+    {
+       "id":16,
+       "nombre":"Counter Strike Global Offensive",
+       "cantidad":1,
+       "desc":"Videojuego de disparos en primera persona",
+       "precio":1900,
+       "img":"img/counter strike global offensive.jpg"
+    },
+    {
+       "id":17,
+       "nombre":"Dota 2",
+       "cantidad":1,
+       "desc":"No compres esto por tu bien x2",
+       "precio":100,
+       "img":"img/dota2.jpg"
+    },
+    {
+       "id":18,
+       "nombre":"World Of Warcraft",
+       "cantidad":1,
+       "desc":"Un videojuego MMORPG, mundo abierto que conoceras muchas personas ",
+       "precio":20000,
+       "img":"img/world of warcraft.jpg"
+    },
+    {
+       "id":19,
+       "nombre":"PES 2021",
+       "cantidad":1,
+       "desc":"Juego de futbol",
+       "precio":1800,
+       "img":"img/pes 2021.jpg"
+    },
+    {
+       "id":20,
+       "nombre":"Age Of Mythology",
+       "cantidad":1,
+       "desc":"Videojuego de estrategia en tiempo real",
+       "precio":500,
+       "img":"img/mythology.jpg"
+    },
+    {
+       "id":21,
+       "nombre":"Age Of Empires I",
+       "cantidad":1,
+       "desc":"Videojuego de estrategia en tiempo real",
+       "precio":700,
+       "img":"img/age of empires.jpg"
+    },
+    {
+       "id":22,
+       "nombre":"Age Of Empires II",
+       "cantidad":1,
+       "desc":"Videojuego de estrategia en tiempo real",
+       "precio":1000,
+       "img":"img/empires2.jpg"
+    },
+    {
+       "id":23,
+       "nombre":"Age Of Empires III",
+       "cantidad":1,
+       "desc":"Videojuego de estrategia en tiempo real",
+       "precio":1500,
+       "img":"img/age of empires 3.jpg"
+    },
+    {
+       "id":24,
+       "nombre":"Age Of Empires IV",
+       "cantidad":1,
+       "desc":"Videojuego de estrategia en tiempo real",
+       "precio":2500,
+       "img":"img/age of empires 4.jpg"
+    }
+ ]
